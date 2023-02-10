@@ -1,0 +1,13 @@
+div {
+    height: 50px; 
+    border-bottom: 10px ridge rgb(50, 125, 205);
+    
+}
+
+@media(min-width:800px){
+    .img{
+        width: 50%;
+        border-radius: 50%;
+
+    }
+}
